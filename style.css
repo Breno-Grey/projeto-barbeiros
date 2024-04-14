@@ -35,7 +35,7 @@
     margin: auto;
     top: -37px;}
 
-    main {background-image: url();
+    main {
         background-color: rgb(0, 0, 0);
             text-align: center;
             color: aliceblue; 
@@ -122,6 +122,7 @@
                 margin: auto;
                 height: 180px;
              }
+             
 
             #cortando{
                 position: relative;
