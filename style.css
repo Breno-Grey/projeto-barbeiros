@@ -35,7 +35,8 @@
     margin: auto;
     top: -37px;}
 
-    main {background-color: rgb(0, 0, 0);
+    main {background-image: url();
+        background-color: rgb(0, 0, 0);
             text-align: center;
             color: aliceblue; 
             margin-top: px;
